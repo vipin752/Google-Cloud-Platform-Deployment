@@ -5,7 +5,7 @@ install the google sdk installer for windows to browse and deploy your resource.
 the link for installation is https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe
 go to your work directory of machine learning model
 run the command
-1. glound init
+1. gcloud init
 2. select your profile with new configuration
 3. gcloud app deploy app.yaml --project aqimumbai
 
